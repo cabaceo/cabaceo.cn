@@ -12,7 +12,7 @@ title_separator          : "|"
 name                     : "Cabaceo LLC"
 description              : "数据科学和机器学习咨询与培训公司"
 url                      : "https://cn.cabaceo.com" # "https://cabaceo.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/cabaceo.cn" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "cabaceo/cabaceo.cn" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/default-teaser.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
