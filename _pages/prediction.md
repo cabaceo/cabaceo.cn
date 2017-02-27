@@ -21,6 +21,6 @@ feature_row:
 * 顾客流失率的预测(Churn rate prediction)
 * 公司或行业收入的预测(Revenue forecast)
 
-我们主要用R和亚马逊云计算来开发预测模型。我们最喜欢的工具包括caret，mlr，XGBoost，和 MXNet。
+我们主要用R和亚马逊云计算来开发预测模型。我们最喜欢的工具包括caret，mlr，XGBoost和MXNet。
 
 {% include feature_row %}
