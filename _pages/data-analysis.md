@@ -7,15 +7,6 @@ header:
   overlay_filter: rgba(139, 134, 163, 0.7)
   cta_label: ""
   cta_url: 
-gallery:
-  - url: https://leanpub.com/ezplot
-    image_path: /assets/images/data-analysis/ezplot.jpg
-    alt: "ezplot"
-    title: "EZPlot"
-  - url: https://leanpub.com/scorepersonalloanapplicantsusingr
-    image_path: /assets/images/data-analysis/score-loans.jpg
-    alt: "score loan applicants"
-    title: "Score Loan Applicants"
 feature_row:
   - url: /consulting/
     btn_label: "联系我们"      
@@ -34,8 +25,10 @@ feature_row:
 
 >广明通过修改、规范我们学生和老师的统计方法报告，轻易为我们增加了超过25万美金的销售额。他带来了惊人的改变，我们的信用度与日俱增。- 本杰明.海明威, Pro-Core CEO
 
-为了给客户提供更大的性价比，我们会一直想法提高效率。我们已经写了一个R语言包[ezplot](https://github.com/gmlang/ezplot)和两本书。
+为了给客户提供更大的性价比，我们会一直想法提高效率。我们已经写了一个R语言包和两本书:
 
-{% include gallery id="gallery" caption="" %}
+* [ezplot, R package](https://github.com/gmlang/ezplot)
+* [ezplot, book](https://leanpub.com/ezplot)
+* [Score Loan Applicants using R](https://leanpub.com/scorepersonalloanapplicantsusingr)
 
 {% include feature_row %}

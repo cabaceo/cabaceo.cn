@@ -2,11 +2,9 @@
 main:
   - title: "咨询"
     url: /consulting/
-  #- title: "Pricing"
-  #  url: /pricing/
+  - title: "培训"
+    url: /training/
   - title: "关于我们"
     url: /about/
-  # - title: "Blogs"
-  #   url: //
   # - title: "Sitemap"
   #   url: /sitemap/
