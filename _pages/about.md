@@ -18,6 +18,4 @@ author_profile: true
 
 －广明
 
-欢迎邮件我：**gmlang@cabaceo.com**
-
 
