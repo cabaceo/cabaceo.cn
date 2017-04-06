@@ -36,7 +36,11 @@ gallery:
     image_path: /assets/images/shiny/linreg.jpg
     alt: "linreg"
     title: "A tool for training linear regression model"        
-    
+  - url: https://gmlang.shinyapps.io/SSCRC/
+    image_path: /assets/images/shiny/sscrc.jpg
+    alt: "SSCRC"
+    title: "Sample Size and Power Calculation in Clinical Trials"        
+  
 feature_row:
   - url: /consulting/
     btn_label: "联系我们"      
