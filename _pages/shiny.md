@@ -40,6 +40,10 @@ gallery:
     image_path: /assets/images/shiny/sscrc.jpg
     alt: "SSCRC"
     title: "Sample Size and Power Calculation in Clinical Trials"        
+  - url: https://942kid.shinyapps.io/douban_explorer/
+    image_path: /assets/images/shiny/douban.jpg
+    alt: "Douban"
+    title: "豆瓣读书"        
   
 feature_row:
   - url: /consulting/
