@@ -8,42 +8,51 @@ header:
   cta_label: ""
   cta_url: 
 gallery:
-  - url: https://cabaceo.shinyapps.io/mdjp/
-    image_path: /assets/images/shiny/mdjp.jpg
-    alt: "Marriages and Divorces of Japanese Nationals"
-    title: "Marriages and Divorces of Japanese Nationals"
+  - url: https://942kid.shinyapps.io/douban_explorer/
+    image_path: /assets/images/shiny/douban-clipped.png
+    alt: "豆瓣读书"
+    title: "豆瓣读书"        
+
+  - url: https://cabaceo.shinyapps.io/gurunavi-cn/
+    image_path: /assets/images/shiny/gurunavi-cn-clipped.png
+    alt: "gurunavi-cn"
+    title: "搜寻在日本的美食餐厅(简体中文)"        
+    
+  - url: https://cabaceo.shinyapps.io/gurunavi-tw/
+    image_path: /assets/images/shiny/gurunavi-tw-clipped.png
+    alt: "gurunavi-tw"
+    title: "搜寻在日本的美食餐厅(繁體中文)"        
+
+  - url: https://cabaceo.shinyapps.io/airbnb-taiwan/
+    image_path: /assets/images/shiny/airbnb-taiwan-clipped.png
+    alt: "Airbnb-Taiwan"
+    title: "快速查找台湾的民宿(英文)"        
+
+  - url: https://cabaceo.shinyapps.io/airbnb-japan/
+    image_path: /assets/images/shiny/airbnb-japan-clipped.png
+    alt: "Airbnb-Japan"
+    title: "快速查找日本的民宿(英文)"        
+  
+  - url: https://cabaceo.com/berkshire-vs-sp500/
+    image_path: /assets/images/shiny/berkshire-vs-sp500-clipped.png
+    alt: "Berkshire vs. S&P 500"
+    title: "Berkshire vs. S&P 500"
+    
+  - url: https://cabaceo.com/shiller-pe/
+    image_path: /assets/images/shiny/shiller-pe-clipped.png
+    alt: "Shiller PE"
+    title: "Shiller PE"
+
   - url: https://cabaceo.shinyapps.io/quantdp/
-    image_path: /assets/images/shiny/quantdp.jpg
+    image_path: /assets/images/shiny/quantdp-clipped.png
     alt: "Backtest Portfolio Dynamic rebalancing strategies, a demo"
     title: "Backtest portfolio rebalancing strategies using vanguard index funds"
-  - url: https://cabaceo.shinyapps.io/tsplotr/
-    image_path: /assets/images/shiny/tsplotr.jpg
-    alt: "tsplotr"
-    title: "Visualize the trend of an example real estate market dataset"    
-  - url: http://app.cabaceo.com/app/imdb/www
-    image_path: /assets/images/shiny/imdb.jpg
-    alt: "IMDB movies data analysis and visualization"
-    title: "IMDB Movies Data Analysis"
-  - url: http://app.cabaceo.com/app/phph/www
-    image_path: /assets/images/shiny/phph.jpg
-    alt: "Survival Models for Time to Breast Cancer"
-    title: "Use Survival Models to Study the Effect of Radiotherapy on Time to Breast Cancer"
-  - url: https://cabaceo.shinyapps.io/plotr/
-    image_path: /assets/images/shiny/plotr.jpg
-    alt: "plotr"
-    title: "A tool for exploratory analysis"
-  - url: https://cabaceo.shinyapps.io/linreg/
-    image_path: /assets/images/shiny/linreg.jpg
-    alt: "linreg"
-    title: "A tool for training linear regression model"        
+
   - url: https://gmlang.shinyapps.io/SSCRC/
-    image_path: /assets/images/shiny/sscrc.jpg
+    image_path: /assets/images/shiny/SSCRC-clipped.png
     alt: "SSCRC"
     title: "Sample Size and Power Calculation in Clinical Trials"        
-  - url: https://942kid.shinyapps.io/douban_explorer/
-    image_path: /assets/images/shiny/douban.jpg
-    alt: "Douban"
-    title: "豆瓣读书"        
+
   
 feature_row:
   - url: /consulting/
